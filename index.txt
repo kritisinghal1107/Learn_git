@@ -1,4 +1,4 @@
-git push -u origin master 
-git pull origin master
+git push -u origin master// push command 
+git pull origin master// pull command
 git config user.name
-git remote add origin [sshid]
+git remote add origin [sshid]//link local to remote repo
